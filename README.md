@@ -1,1 +1,2 @@
-# code-deploy-php-final-code
+# aws-codedeploy-sample-tomcat
+A sample Tomcat application integrated with CodeDeploy. 
